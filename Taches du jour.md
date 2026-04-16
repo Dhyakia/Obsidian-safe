@@ -9,3 +9,9 @@
 	5. Ajout d'un saut
 	6. Ajout d'un son / bruitage
 	7. Ajout d'une texture pour le sol
+
+
+A terminer demain : 
+- Le saut ne fonctionne plus : je peux sauter a l'infini (detection du sol à foirer)
+- Bruitage du saut est pété
+- Créer et ajouter la / les texture(s)
