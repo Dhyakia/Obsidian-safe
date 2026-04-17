@@ -1,17 +1,16 @@
 
-1. Trouver le nom
-2. Trouver comment setup un outils de versionnage pour Unity
-3. Débuter le prototypage avec le mouvement du player character
-	1. Mettre en place un plan vide et un personnage
-	2. Logique de collision
-	3. Logique de mouvement
-	4. Camera 3eme personne
-	5. Ajout d'un saut
-	6. Ajout d'un son / bruitage
-	7. Ajout d'une texture pour le sol
+J'ai peut-etre visé un peu gros aujourd'hui.
+Si c'est le cas, je terminerais demain, SAMEDI 18/04
 
-
-A terminer demain : 
-- Le saut ne fonctionne plus : je peux sauter a l'infini (detection du sol à foirer)
-- Bruitage du saut est pété
-- Créer et ajouter la / les texture(s)
+1. Terminer de régler les problemes de la scene tutoriel
+	1. Saut infini => Mauvaise detection du sol ?
+	2. Bruitage de course et de saut
+	3. Ajouter une texture au sol / blocs
+2. Créer deux nouvelle scenes
+	1. Une avec un menu de "Start"
+	2. Une avec celui du jeux
+3. Enfin, créer la base de la scene de jeux principale
+	1. Ajouter une orbe "Terre" avec une texture de carte
+	2. Ajouter une camera
+		1. Tourne autour
+		2. Capable de zoom / dezoom sans colide
